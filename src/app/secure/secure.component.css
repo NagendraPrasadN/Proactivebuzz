@@ -1,0 +1,12 @@
+.grid.maincontainer {
+    width: 100%;
+}
+.rightcontainer {
+    width: 84% !important;
+    margin-top:64px !important; 
+    margin-left:14% !important; 
+    margin-bottom:2%;
+    padding: 0px 10px 0px 10px; 
+    overflow: hidden;
+    z-index: -1;
+}
